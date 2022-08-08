@@ -3,7 +3,7 @@
 Per quanto riguarda il frontend l'unico framework utilizzato è appunto React nrll'ultima versione lts
 per poter utilizzare React( vi sono più sotto i comandi di inizializzazione) 
 è necessario avere anche Node.js installato (versione utilizzata 16.4 lts).
-Per il backend ho sviluppato un piccolo sistema crud utilizzando come framework Flask e CORN,
+Per il backend ho sviluppato un piccolo sistema crud utilizzando come framework Flask e CORS, 
 le informazioni sono salvate su di un database in locale Redis creato e messo in funzione tramite Docker
 (qualora lo si volesse provare ricordare di cambiare l'indirizzo e la password di accesso al db con le vostre che  avete)
 Vi sono anche le stesse crud (sotto commento però) utilizzando MongoDB sempre virtualizzato ed utilizzato tramite Docker
